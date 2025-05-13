@@ -11,7 +11,8 @@ on:
 jobs:
   ci:
     runs-on: ${{ matrix.os }}
-
+    env:
+      LOCALHOST_KEYSTORE_ACCOUNT: scaffold-eth-default  # 👈 Set env var here
     strategy:
       matrix:
         os: [ubuntu-latest]
