@@ -21,3 +21,7 @@ node_modules
 
 # cli
 dist
+
+packages/foundry/lib/forge-std
+packages/foundry/lib/openzeppelin-contracts
+packages/solidity-bytes-utils
