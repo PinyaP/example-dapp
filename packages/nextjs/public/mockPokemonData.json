@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Pikachu",
+    "logo": "/pikachu.png",
+    "description": "Pikachu is an Electric type Pokémon introduced in Generation 1.",
+    "price": 100
+  },
+  {
+    "name": "Charmander",
+    "logo": "/charmander.png",
+    "description": "Charmander is a Fire type Pokémon introduced in Generation 1.",
+    "price": 120
+  },
+  {
+    "name": "Squirtle",
+    "logo": "/squirtle.png",
+    "description": "Squirtle is a Water type Pokémon introduced in Generation 1.",
+    "price": 110
+  },
+  {
+    "name": "Bulbasaur",
+    "logo": "/bulbasaur.png",
+    "description": "Bulbasaur is a Grass/Poison type Pokémon introduced in Generation 1.",
+    "price": 115
+  },
+  {
+    "name": "Jigglypuff",
+    "logo": "/jigglypuff.png",
+    "description": "Jigglypuff is a Normal/Fairy type Pokémon introduced in Generation 1.",
+    "price": 90
+  },
+  {
+    "name": "Meowth",
+    "logo": "/meowth.png",
+    "description": "Meowth is a Normal type Pokémon introduced in Generation 1.",
+    "price": 95
+  }
+]
