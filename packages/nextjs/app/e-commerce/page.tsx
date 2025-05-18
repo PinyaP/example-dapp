@@ -1,14 +1,11 @@
 "use client";
 
 import { useEffect, useState } from "react";
-// Added parseEther
 import Image from "next/image";
 import { abi } from "../../abi";
 import pokemonData from "../../public/mockPokemonData.json";
-// Added useEffect
 import { Merch } from "./_components/merch";
 import type { NextPage } from "next";
-// Ensure this ABI includes all functions: balanceOf, mintPKC, and your spend/transfer/approve functions
 import { formatEther } from "viem";
 import { useAccount, useReadContract, useWriteContract } from "wagmi";
 
