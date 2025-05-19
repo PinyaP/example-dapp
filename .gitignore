@@ -24,4 +24,4 @@ dist
 
 packages/foundry/lib/forge-std
 packages/foundry/lib/openzeppelin-contracts
-packages/solidity-bytes-utils
+packages/foundry/lib/solidity-bytes-utils

@@ -12,3 +12,7 @@ docs/
 # Dotenv file
 .env
 localhost.json
+
+packages/foundry/lib/forge-std
+packages/foundry/lib/openzeppelin-contracts
+packages/foundry/lib/solidity-bytes-utils
