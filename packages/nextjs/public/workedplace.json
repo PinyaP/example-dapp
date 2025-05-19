@@ -4,20 +4,20 @@
     "role" : "Blockchain Software Engineer",
     "logo": "/krnl.jpg",
     "duration": "July 2024 – Present",
-    "shortDescription": "Working as a Software Tester focusing on frontend and smart contract integration testing for a DeFi platform."
+    "shortDescription": "Explored foundational knowledge of Ethereum, including smart contracts, gas mechanism, and the EthereumVirtual Machine (EVM).Developed projects, including Solidity smart contracts and dApp demos using React, TypeScript tailored forbusiness partners with private repositories and general users with public repositories."
   },
   {
     "workplace": "Finnomena",
     "role" : "Fullstack Developer (Intern)",
     "logo": "/finnomena.jpg",
     "duration": "Jan 2024 – May 2024",
-    "shortDescription": "Performed QA testing on web apps and helped automate test cases for internal tools."
+    "shortDescription": "Performed QA testing on web apps and helped automate test cases for internal tools. Led the creation of a new API version using Golang, aligning with RESTful best practices and improving systemmodularity.Executed database migrations and seeders to ensure smooth data transition and test environment readiness."
   },
   {
-    "workplace": "Accenture",
-    "role" : "Frontend Developer (Intern)",
-    "logo": "/accenture.png",
-    "duration": "June 2023 – August 2023",
-    "shortDescription": "Interned as a manual tester, validating mobile app features and logging bugs through Jira."
-  }
+  "workplace": "Accenture",
+  "role": "Frontend Developer (Intern)",
+  "logo": "/accenture.png",
+  "duration": "June 2023 – August 2023",
+  "shortDescription": "Creative and detail-oriented Front-End Developer with hands-on experience in designing and developing high-quality, responsive, and scalable mobile and web applications using Flutter."
+}
 ]
