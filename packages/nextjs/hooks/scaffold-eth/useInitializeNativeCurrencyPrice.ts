@@ -3,7 +3,6 @@ import { useTargetNetwork } from "./useTargetNetwork";
 import { useInterval } from "usehooks-ts";
 import scaffoldConfig from "~~/scaffold.config";
 import { useGlobalState } from "~~/services/store/store";
-import { fetchPriceFromUniswap } from "~~/utils/scaffold-eth";
 
 const enablePolling = false;
 
@@ -17,8 +16,6 @@ export const useInitializeNativeCurrencyPrice = () => {
 
   const fetchPrice = useCallback(async () => {
     setIsNativeCurrencyFetching(true);
-    const price = await fetchPriceFromUniswap(targetNetwork);
-    setNativeCurrencyPrice(price);
     setIsNativeCurrencyFetching(false);
   }, [setIsNativeCurrencyFetching, setNativeCurrencyPrice, targetNetwork]);
 
